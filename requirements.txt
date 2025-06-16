@@ -1,0 +1,9 @@
+streamlit
+agno
+openai
+google-search-results
+requests
+beautifulsoup4
+lxml
+crewai
+crewtools
